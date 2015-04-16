@@ -5,7 +5,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
 
 ##Easy
 
-  1.  Onboarding: *unsolved*
+  1.  Onboarding: (04/15) [java](https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/Onboarding.java), [c](https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/C/Onboarding.c), [c++](https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/C%2B%2B/Onboarding.cpp), [c#](https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/C%23/Onboarding.cs), [js](https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/javascript/Onboarding.js)
   2.  Power of Thor: *unsolved*
   3.  The Descent: *unsolved*
   4.  Skynet: the Chasm: *unsolved*
