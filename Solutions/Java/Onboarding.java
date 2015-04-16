@@ -23,8 +23,6 @@ class Player {
             } else {
                 System.out.println(enemy2);
             }
-            // Write an action using System.out.println()
-            // To debug: System.err.println("Debug messages...");
         }
     }
 }

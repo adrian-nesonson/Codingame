@@ -1,12 +1,9 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
+#include <Foundation/Foundation.h>
 
 /**
  * CodinGame planet is being attacked by slimy insectoid aliens.
  **/
-int main()
-{
+int main(int argc, const char * argv[]) {
 
     // game loop
     while (1) {
@@ -18,6 +15,7 @@ int main()
         scanf("%s", enemy2);
         int dist2; // distance to enemy 2
         scanf("%d", &dist2);
+        
         if (dist1 < dist2 ) {
             printf("%s\n",&enemy1);
         } else {
