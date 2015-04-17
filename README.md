@@ -15,7 +15,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
   8.  Chuck Norris: (04/15) [java][easy8_java]
   9.  MIME Type: (04/15) [java][easy9_java]
   10. Defibrillators: (04/15) [java][easy10_java]
-  11. Horse-racing Duals: (04/15) [java][easy11_java]
+  11. Horse-racing Duals: (04/15) [java][easy11_java], [bash][easy11_bash]
   
 ##Medium
 
@@ -61,6 +61,6 @@ Solutions for challenges of http://www.codingame.com/ in various language
   
   [easy10_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/Defibrillators.java
   
-  [easy11_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HorseRacingDual.java
-  
+  [easy11_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HorseRacingDual.java  
+  [easy11_bash]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Bash/HorseRacingDual.sh
   
