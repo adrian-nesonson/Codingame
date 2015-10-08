@@ -5,7 +5,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
 
 ##Easy
 
-  1.  Onboarding: (04/15) [java][easy1_java], [c][easy1_c], [c++][easy1_c++], [c#][easy1_c#], [js][easy1_js], [bash][easy1_bash], [dart][easy1_dart], [go][easy1_go], [groovy][easy1_groovy], [objectiveC][easy1_objectiveC], [php][easy1_php], [ruby][easy1_ruby], [perl][easy1_perl], [python][easy1_python], [scala][easy1_scala]
+  1.  Onboarding: (10/15) [java][easy1_java], [c][easy1_c], [c++][easy1_c++], [c#][easy1_c#], [js][easy1_js], [bash][easy1_bash], [dart][easy1_dart], [go][easy1_go], [groovy][easy1_groovy], [objectiveC][easy1_objectiveC], [php][easy1_php], [ruby][easy1_ruby], [perl][easy1_perl], [python][easy1_python], [scala][easy1_scala], [clojure][easy1_clojure]
   2.  Power of Thor: (04/15) [java][easy2_java]
   3.  The Descent: (04/15) [java][easy3_java]
   4.  Skynet: the Chasm: (04/15) [java][easy4_java]
@@ -16,7 +16,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
   9.  MIME Type: (04/15) [java][easy9_java]
   10. Defibrillators: (04/15) [java][easy10_java]
   11. Horse-racing Duals: (04/15) [java][easy11_java], [bash][easy11_bash]
-  
+
 ##Medium
 
   1.  APU: Init Phase: (10/15) [java][medium1_java]
@@ -60,31 +60,31 @@ Solutions for challenges of http://www.codingame.com/ in various language
   [easy1_perl]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Perl/Onboarding.pl
   [easy1_python]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Python/Onboarding.py
   [easy1_scala]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Scala/Onboarding.scala  
-  
+  [easy1_clojure]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Clojure/Onboarding.clj  
+
   [easy2_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/PowerOfThor.java
-  
+
   [easy3_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/TheDescent.java
-  
+
   [easy4_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/SkynetTheChasm.java
-  
+
   [easy5_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/Temperatures.java
-  
+
   [easy7_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/ASCIIArt.java
-  
+
   [easy8_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/ChuckNorris.java
-  
+
   [easy9_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/MIMEType.java
-  
+
   [easy10_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/Defibrillators.java
-  
+
   [easy11_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HorseRacingDual.java  
   [easy11_bash]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Bash/HorseRacingDual.sh
-  
+
   [medium1_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/ApuInitPhase.java  
-  
+
   [medium2_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/SkynetTheVirus.java  
-  
+
   [medium4_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HeatDetector.java  
-   
+
   [medium7_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/TeadsSponsoredChallenge.java  
-  
