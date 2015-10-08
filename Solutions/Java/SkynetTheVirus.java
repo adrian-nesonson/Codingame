@@ -179,26 +179,6 @@ class Player {
 
 	public static void main(String args[]) {
 
-		String scan = "8 13 2\n" +
-				" 6 2\n" +
-				" 7 3\n" +
-				" 6 3\n" +
-				" 5 3\n" +
-				" 3 4\n" +
-				" 7 1\n" +
-				" 2 0\n" +
-				" 0 1\n" +
-				" 0 3\n" +
-				" 1 3\n" +
-				" 2 3\n" +
-				" 7 4\n" +
-				" 6 5\n" +
-				" 4\n" +
-				" 5\n" +
-				" 0\n" +
-				" 3\n" +
-				" 5\n";
-
 		Scanner in = new Scanner(System.in);
 		int N = in.nextInt(); // the total number of nodes in the level, including the gateways
 		int L = in.nextInt(); // the number of links
