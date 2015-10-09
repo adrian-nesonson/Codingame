@@ -29,8 +29,8 @@ Solutions for challenges of http://www.codingame.com/ in various language
   8.  Stock Exchange Losses : *not yet resolved*
   9.  Indiana - Level 1 : *not yet resolved*
   10.  Network Cabling : *not yet resolved*
-  11.  Conway Sequence : *not yet resolved*
-  12. Telephone Numbers : *not yet resolved*
+  11.  Conway Sequence : (10/15) [java][medium11_java]
+  12.  Telephone Numbers : *not yet resolved*
   13.  Dwarfs standing on the shoulders of giants : *not yet resolved*
   14.  Bender, a depressed robot : *not yet resolved*
   15.  Scrabble : *not yet resolved*
@@ -88,3 +88,5 @@ Solutions for challenges of http://www.codingame.com/ in various language
   [medium4_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HeatDetector.java  
 
   [medium7_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/TeadsSponsoredChallenge.java  
+
+  [medium11_java]:https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/ConwaySequence.java
