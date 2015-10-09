@@ -26,7 +26,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
   5.  The Paranoid Android : *not yet resolved*
   6.  Mars Lander - Level 2 : *not yet resolved*
   7.  Teads Sponsored Challenge : (10/15) [java][medium7_java]
-  8.  Stock Exchange Losses : *not yet resolved*
+  8.  Stock Exchange Losses : (10/15) [java][medium8_java]
   9.  Indiana - Level 1 : *not yet resolved*
   10.  Network Cabling : *not yet resolved*
   11.  Conway Sequence : (10/15) [java][medium11_java]
@@ -88,5 +88,7 @@ Solutions for challenges of http://www.codingame.com/ in various language
   [medium4_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/HeatDetector.java  
 
   [medium7_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/TeadsSponsoredChallenge.java  
+
+  [medium8_java]: https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/StockExchangeLosses.java
 
   [medium11_java]:https://github.com/adrian-nesonson/Codingame/blob/master/Solutions/Java/ConwaySequence.java
